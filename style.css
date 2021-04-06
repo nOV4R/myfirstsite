@@ -1,6 +1,6 @@
 body{
-    background-color: rgba(75, 233, 245, 0.849);
-    font-family: 'Caveat', cursive;
+    background-color: rgba(241, 255, 209);
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     font-size: 25px;
 }
@@ -23,7 +23,7 @@ header a {
     padding: 10px;
 }
 footer p {
-    background-color: rgb(110, 217, 250);
+    background-color: rgb(241, 255, 209);
     text-decoration: none;
     color: rgb(252, 82, 82);
     border-radius: 10px;
@@ -57,6 +57,7 @@ margin-top: 10px;
 article {
     margin-bottom: 20px;
 }
-.span1 {
-    color: rgb(0, 250, 83);
+.a1 {
+    color: rgb(250, 0, 0);
+    border: 2px solid black;
 }
